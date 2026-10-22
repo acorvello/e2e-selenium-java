@@ -57,3 +57,5 @@ This repository is actively consumed by the docker-test-env orchestration projec
 ⚖️ License
 
 This repository is licensed under the MIT License. Feel free to clone, study, modify, and distribute the code for educational or portfolio purposes.
+---
+<sub>Keywords: Selenium 4, Java, JUnit 5, Maven, Page Object Model, POM, Explicit Waits, Enterprise QA, RemoteWebDriver, Jenkins CI/CD, Containerization, Docker, Automation Infrastructure.
