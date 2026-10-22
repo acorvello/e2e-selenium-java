@@ -42,6 +42,7 @@ e2e-selenium-java/
 docker run -d --name selenium -p 4444:4444 --shm-size=2g selenium/standalone-chrome:4.27.0
 
 BASE_URL=http://host.docker.internal:3001 SELENIUM_URL=http://localhost:4444/wd/hub mvn test
+```
 
 🐳 Running Through the Full Pipeline (DevOps)
 
